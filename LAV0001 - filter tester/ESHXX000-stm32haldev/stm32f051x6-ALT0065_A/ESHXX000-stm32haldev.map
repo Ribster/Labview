@@ -1,0 +1,1062 @@
+Archive member included because of file (symbol)
+
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+                              ./stm32dev/src/general/stm32dev_general.o (pow)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (__ieee754_pow)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_sqrt.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fabs.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o) (fabs)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_finite.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (finite)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fpclassify.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (__fpclassifyd)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (__fdlib_version)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (matherr)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_nan.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o) (nan)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (rint)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o) (scalbn)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_copysign.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o) (copysign)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+                              ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o (__gnu_thumb1_case_uqi)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+                              ./stm32dev/src/general/stm32dev_dds_AD9834.o (__aeabi_uidiv)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (__aeabi_dcmpeq)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                              ./stm32dev/src/general/stm32dev_dds_AD9834.o (__aeabi_fcmpgt)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+                              ./stm32dev/src/general/stm32dev_dds_AD9834.o (__aeabi_uldivmod)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o)
+                              ./stm32dev/src/general/stm32dev_dds_AD9834.o (__aeabi_f2uiz)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunsdfsi.o)
+                              ./stm32dev/src/general/stm32dev_general.o (__aeabi_d2uiz)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__gesf2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__lesf2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o)
+                              ./stm32dev/src/general/stm32dev_dds_AD9834.o (__aeabi_fmul)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subsf3.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o) (__aeabi_fsub)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixsfsi.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o) (__aeabi_f2iz)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(adddf3.o)
+                              ./stm32dev/src/general/stm32dev_general.o (__aeabi_dadd)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(divdf3.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (__aeabi_ddiv)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqdf2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o) (__eqdf2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gedf2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o) (__gedf2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(ledf2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o) (__ledf2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(muldf3.o)
+                              ./stm32dev/src/general/stm32dev_general.o (__aeabi_dmul)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subdf3.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o) (__aeabi_dsub)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixdfsi.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunsdfsi.o) (__aeabi_d2iz)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatsidf.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o) (__aeabi_i2d)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatunsidf.o)
+                              ./stm32dev/src/general/stm32dev_general.o (__aeabi_ui2d)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o) (__clzsi2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o) (__aeabi_lmul)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o) (__divdi3)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o) (__udivdi3)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o) (__clzdi2)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-abs.o)
+                              ./stm32dev/src/general/stm32dev_screen_ssd1306.o (abs)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o) (__errno)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+                              /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o) (_impure_ptr)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+                              ./stm32dev/src/general/stm32dev_dds_AD9834.o (memcpy)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+                              ./stm32dev/src/general/stm32dev_screen_ssd1306.o (memset)
+/Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+                              ./stm32dev/src/general/stm32dev_general.o (strlen)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .debug_info    0x0000000000000000       0x8e ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .debug_abbrev  0x0000000000000000       0x26 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .debug_line    0x0000000000000000       0x1d ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .debug_str     0x0000000000000000      0x1ff ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_setPinHolderGPIO
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_setPinHolder
+                0x0000000000000000        0xc ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_setPinMode
+                0x0000000000000000       0x7c ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_setPinPullup
+                0x0000000000000000       0x2a ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_setPinSpeed
+                0x0000000000000000       0x1a ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_initPinOutputPP
+                0x0000000000000000       0x2c ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_initPinOutputOD
+                0x0000000000000000       0x2c ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_initPinInput
+                0x0000000000000000       0x2c ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_initPinAnalog
+                0x0000000000000000       0x2c ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_setPinAlternate
+                0x0000000000000000       0x3e ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_initPinAlternateOD
+                0x0000000000000000       0x3a ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_initPinAlternatePP
+                0x0000000000000000       0x3a ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_clearPinMode
+                0x0000000000000000       0x18 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_clearPinPullup
+                0x0000000000000000        0xe ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_clearPinSpeed
+                0x0000000000000000        0xe ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_clearPinAlternate
+                0x0000000000000000       0x28 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_deinitPin
+                0x0000000000000000       0x24 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_getAFUSART
+                0x0000000000000000        0x4 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_getPinState
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text.stm32dev_gpio_setPinState
+                0x0000000000000000       0x1a ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_info    0x0000000000000000      0xd18 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_abbrev  0x0000000000000000      0x232 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_loc     0x0000000000000000      0x671 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_aranges
+                0x0000000000000000       0xb8 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_ranges  0x0000000000000000       0xa8 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_line    0x0000000000000000      0x46d ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_str     0x0000000000000000      0x934 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .debug_frame   0x0000000000000000      0x1d8 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_enableClock
+                0x0000000000000000       0x6c ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_disableClock
+                0x0000000000000000       0x74 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setClock
+                0x0000000000000000       0x12 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setClockPWR
+                0x0000000000000000       0x24 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setRTCClockEnabled
+                0x0000000000000000       0x24 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setRTCLSEBypass
+                0x0000000000000000       0x18 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setRTCLSEEnabled
+                0x0000000000000000       0x18 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setRTCLSIEnabled
+                0x0000000000000000       0x18 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setBackupDomainReset
+                0x0000000000000000       0x24 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_setRTCClock
+                0x0000000000000000       0x2c ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getRTCClockEnabled
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getRTCClock
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getRTCLSEBypassed
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getRTCLSEReady
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getRTCLSEEnabled
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getRTCLSIReady
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getRTCLSIEnabled
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getBackupDomainReset
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getClockPWR
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getSystemClock
+                0x0000000000000000       0x10 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getPCLK1Clock
+                0x0000000000000000        0x4 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text.stm32dev_rcc_getPCLK2Clock
+                0x0000000000000000        0x4 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_info    0x0000000000000000      0x5cb ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_abbrev  0x0000000000000000      0x1e5 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_loc     0x0000000000000000      0x134 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_aranges
+                0x0000000000000000       0xc8 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_ranges  0x0000000000000000       0xe0 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_line    0x0000000000000000      0x3fc ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_str     0x0000000000000000      0x5c9 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .debug_frame   0x0000000000000000      0x18c ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .debug_info    0x0000000000000000       0x8e ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .debug_abbrev  0x0000000000000000       0x26 ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .debug_line    0x0000000000000000       0x1d ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .debug_str     0x0000000000000000      0x1ff ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9833.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9833.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9833.o
+ .debug_line    0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9833.o
+ .debug_str     0x0000000000000000      0x152 ./stm32dev/src/general/stm32dev_dds_AD9833.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/general/stm32dev_dds_AD9833.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/general/stm32dev_dds_AD9833.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_setBufferFrequency.part.0
+                0x0000000000000000       0x30 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_initPin_data
+                0x0000000000000000       0x2c ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_initPin_clock
+                0x0000000000000000       0x2c ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_initPin_ss
+                0x0000000000000000       0x2c ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_deinitPin_data
+                0x0000000000000000       0x28 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_deinitPin_clock
+                0x0000000000000000       0x28 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_deinitPin_ss
+                0x0000000000000000       0x28 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_deinitialize
+                0x0000000000000000       0x1c ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendData
+                0x0000000000000000       0x88 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendBuffer
+                0x0000000000000000       0x28 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendPacket
+                0x0000000000000000       0x10 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendControlRegister
+                0x0000000000000000       0x1c ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendFrequency
+                0x0000000000000000       0x50 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendPhase
+                0x0000000000000000       0x90 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_initialize
+                0x0000000000000000       0x64 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendReset
+                0x0000000000000000       0x28 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_setControlBit
+                0x0000000000000000       0x20 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendSleep1
+                0x0000000000000000       0x10 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendSleep12
+                0x0000000000000000       0x10 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendSIGNBITEN
+                0x0000000000000000       0x10 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_sendTriangle
+                0x0000000000000000       0x1c ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_setFrequency
+                0x0000000000000000       0x20 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_setPhase
+                0x0000000000000000       0x18 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_getBaseClock
+                0x0000000000000000        0xc ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_setBaseClock
+                0x0000000000000000        0xc ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_getMaxClock
+                0x0000000000000000        0xc ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text.ad9834_setMaxClock
+                0x0000000000000000        0xc ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .data._ad9834_maxFrequency
+                0x0000000000000000        0x8 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._pin_clock
+                0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._bank_clock
+                0x0000000000000000        0x4 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._bank_ss  0x0000000000000000        0x4 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._pin_clock_init
+                0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._ad9834_sendbuffer
+                0x0000000000000000        0x4 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._bank_data
+                0x0000000000000000        0x4 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._ad9834_setclock
+                0x0000000000000000       0x10 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._ad9834_initialized
+                0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .data._ad9834_baseclock
+                0x0000000000000000        0x8 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._pin_data_init
+                0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._pin_data
+                0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._ad9834_controlregister
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._ad9834_triangle
+                0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._ad9834_setphase
+                0x0000000000000000        0x8 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._pin_ss   0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .bss._pin_ss_init
+                0x0000000000000000        0x1 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_info    0x0000000000000000      0xddb ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_abbrev  0x0000000000000000      0x30c ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_loc     0x0000000000000000      0x4d5 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_aranges
+                0x0000000000000000       0xf0 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_ranges  0x0000000000000000      0x130 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_line    0x0000000000000000      0x621 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_str     0x0000000000000000      0x939 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .debug_frame   0x0000000000000000      0x290 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/general/stm32dev_dds_AD9834.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9850.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9850.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9850.o
+ .debug_line    0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9850.o
+ .debug_str     0x0000000000000000      0x152 ./stm32dev/src/general/stm32dev_dds_AD9850.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/general/stm32dev_dds_AD9850.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/general/stm32dev_dds_AD9850.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9851.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9851.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9851.o
+ .debug_line    0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_dds_AD9851.o
+ .debug_str     0x0000000000000000      0x152 ./stm32dev/src/general/stm32dev_dds_AD9851.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/general/stm32dev_dds_AD9851.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/general/stm32dev_dds_AD9851.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_general.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_general.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_general.o
+ .text.stm32dev_general_convertToCapital
+                0x0000000000000000       0x20 ./stm32dev/src/general/stm32dev_general.o
+ .text.stm32dev_general_getDec
+                0x0000000000000000       0x3c ./stm32dev/src/general/stm32dev_general.o
+ .text.stm32dev_general_getDecSigned
+                0x0000000000000000       0x60 ./stm32dev/src/general/stm32dev_general.o
+ .text.stm32dev_general_getDecfromBCD
+                0x0000000000000000       0x64 ./stm32dev/src/general/stm32dev_general.o
+ .text.stm32dev_general_getBCDfromDec
+                0x0000000000000000       0x28 ./stm32dev/src/general/stm32dev_general.o
+ .bss.str.5332  0x0000000000000000       0x10 ./stm32dev/src/general/stm32dev_general.o
+ .bss.str.5339  0x0000000000000000       0x10 ./stm32dev/src/general/stm32dev_general.o
+ .debug_info    0x0000000000000000      0x259 ./stm32dev/src/general/stm32dev_general.o
+ .debug_abbrev  0x0000000000000000      0x125 ./stm32dev/src/general/stm32dev_general.o
+ .debug_loc     0x0000000000000000      0x1df ./stm32dev/src/general/stm32dev_general.o
+ .debug_aranges
+                0x0000000000000000       0x40 ./stm32dev/src/general/stm32dev_general.o
+ .debug_ranges  0x0000000000000000       0x30 ./stm32dev/src/general/stm32dev_general.o
+ .debug_line    0x0000000000000000      0x1b6 ./stm32dev/src/general/stm32dev_general.o
+ .debug_str     0x0000000000000000      0x2b2 ./stm32dev/src/general/stm32dev_general.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/general/stm32dev_general.o
+ .debug_frame   0x0000000000000000       0xa4 ./stm32dev/src/general/stm32dev_general.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/general/stm32dev_general.o
+ .text          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .data          0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .bss           0x0000000000000000        0x0 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_adjustCoordinate
+                0x0000000000000000       0x44 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.setDC    0x0000000000000000       0x18 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.setSS    0x0000000000000000       0x18 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.transmitCommand
+                0x0000000000000000       0x38 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_initPin
+                0x0000000000000000       0x38 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_transmitPixelBuffer
+                0x0000000000000000       0x16 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_interruptHandler
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_pixbufferTest
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_lineTest
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_circleTest
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_areaTest
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_stringTest
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setOn
+                0x0000000000000000        0xa ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setOff
+                0x0000000000000000        0xa ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setOrientation
+                0x0000000000000000       0x62 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setViewMode
+                0x0000000000000000       0x20 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_init
+                0x0000000000000000      0x170 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_getScreenDimensions
+                0x0000000000000000       0x2c ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_alterPixel
+                0x0000000000000000       0x90 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_alterLine
+                0x0000000000000000       0xb4 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_getPixel
+                0x0000000000000000        0x4 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setPixel
+                0x0000000000000000        0xa ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_clearPixel
+                0x0000000000000000        0xa ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setScreen
+                0x0000000000000000       0x14 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_clearScreen
+                0x0000000000000000       0x14 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setLine
+                0x0000000000000000        0xc ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_clearLine
+                0x0000000000000000        0xc ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setCircle
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_clearCircle
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setSemiCircle
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setSemiCircleOutline
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setOutline
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setOutlineRounded
+                0x0000000000000000        0x2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_setArea
+                0x0000000000000000       0x4e ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text.ssd1306_clearArea
+                0x0000000000000000       0x4e ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .rodata.CSWTCH.13
+                0x0000000000000000       0x14 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .bss.ssd1306_parameters
+                0x0000000000000000       0xa4 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_info    0x0000000000000000     0x1b4a ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_abbrev  0x0000000000000000      0x3e7 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_loc     0x0000000000000000      0xb19 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_aranges
+                0x0000000000000000      0x130 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_ranges  0x0000000000000000      0x120 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_line    0x0000000000000000      0x6d5 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_str     0x0000000000000000     0x14d2 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .comment       0x0000000000000000       0x71 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .debug_frame   0x0000000000000000      0x340 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+ .text.pow      0x0000000000000000      0x35c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+ .rodata.str1.4
+                0x0000000000000000        0x4 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+ .debug_frame   0x0000000000000000       0x38 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-w_pow.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .text.__ieee754_pow
+                0x0000000000000000      0xa8c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .rodata.dp_h   0x0000000000000000       0x10 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .rodata.dp_l   0x0000000000000000       0x10 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .rodata.bp     0x0000000000000000       0x10 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .rodata.str1.4
+                0x0000000000000000        0x1 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_pow.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_sqrt.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_sqrt.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_sqrt.o)
+ .text.__ieee754_sqrt
+                0x0000000000000000      0x1ec /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-e_sqrt.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fabs.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fabs.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fabs.o)
+ .text.fabs     0x0000000000000000        0x8 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fabs.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_finite.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_finite.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_finite.o)
+ .text.finite   0x0000000000000000       0x14 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_finite.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_finite.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fpclassify.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fpclassify.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fpclassify.o)
+ .text.__fpclassifyd
+                0x0000000000000000       0x5c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_fpclassify.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .data.__fdlib_version
+                0x0000000000000000        0x1 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_lib_ver.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .text.matherr  0x0000000000000000        0x4 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_matherr.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_nan.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_nan.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_nan.o)
+ .text.nan      0x0000000000000000        0xc /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_nan.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_nan.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .text.rint     0x0000000000000000      0x144 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .rodata.TWO52  0x0000000000000000       0x10 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .debug_frame   0x0000000000000000       0x38 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_rint.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o)
+ .text.scalbn   0x0000000000000000       0xf8 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x0000000000000000       0x30 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_scalbn.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_copysign.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_copysign.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_copysign.o)
+ .text.copysign
+                0x0000000000000000       0x10 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a(lib_a-s_copysign.o)
+ .text          0x0000000000000000       0x14 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .text          0x0000000000000000      0x120 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .text          0x0000000000000000        0x4 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000       0x7c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpdf2.o)
+ .text          0x0000000000000000       0x74 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .text          0x0000000000000000       0x40 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x0000000000000000       0x30 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x0000000000000000       0x28 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunssfsi.o)
+ .text          0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_fixunsdfsi.o)
+ .text          0x0000000000000000       0x6c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .debug_frame   0x0000000000000000       0x50 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .text          0x0000000000000000       0x54 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .debug_frame   0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .text          0x0000000000000000       0x94 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .debug_frame   0x0000000000000000       0x30 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .text          0x0000000000000000       0x8c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .debug_frame   0x0000000000000000       0x30 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .text          0x0000000000000000      0x264 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o)
+ .rodata        0x0000000000000000       0x40 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(mulsf3.o)
+ .text          0x0000000000000000      0x2fc /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subsf3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subsf3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subsf3.o)
+ .debug_frame   0x0000000000000000       0x30 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subsf3.o)
+ .text          0x0000000000000000       0x40 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixsfsi.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixsfsi.o)
+ .text          0x0000000000000000      0x650 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(adddf3.o)
+ .debug_frame   0x0000000000000000       0x38 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(adddf3.o)
+ .text          0x0000000000000000      0x648 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(divdf3.o)
+ .rodata        0x0000000000000000       0x40 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(divdf3.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(divdf3.o)
+ .text          0x0000000000000000       0x88 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqdf2.o)
+ .debug_frame   0x0000000000000000       0x38 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqdf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqdf2.o)
+ .text          0x0000000000000000       0xe0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gedf2.o)
+ .debug_frame   0x0000000000000000       0x38 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gedf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gedf2.o)
+ .text          0x0000000000000000       0xcc /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(ledf2.o)
+ .debug_frame   0x0000000000000000       0x38 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(ledf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(ledf2.o)
+ .text          0x0000000000000000      0x534 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(muldf3.o)
+ .rodata        0x0000000000000000       0x40 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(muldf3.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(muldf3.o)
+ .text          0x0000000000000000      0x6f4 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subdf3.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(subdf3.o)
+ .text          0x0000000000000000       0x6c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixdfsi.o)
+ .debug_frame   0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(fixdfsi.o)
+ .text          0x0000000000000000       0x78 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatsidf.o)
+ .debug_frame   0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatsidf.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatsidf.o)
+ .text          0x0000000000000000       0x64 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatunsidf.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatunsidf.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatunsidf.o)
+ .debug_frame   0x0000000000000000       0x28 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatunsidf.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(floatunsidf.o)
+ .text          0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000       0x54 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .debug_frame   0x0000000000000000       0x34 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .text          0x0000000000000000      0x1f0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000000000000        0x8 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .text          0x0000000000000000      0x158 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .ARM.exidx     0x0000000000000000        0x8 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .debug_frame   0x0000000000000000       0x3c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000       0x18 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-abs.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-abs.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-abs.o)
+ .text.abs      0x0000000000000000        0x8 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-abs.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-abs.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-abs.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x0000000000000000        0x2 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000000000       0x12 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000000       0x28 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .text.strlen   0x0000000000000000        0xe /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000000       0x20 /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a(lib_a-strlen.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000002000 xrw
+CCMRAM           0x0000000000000000 0x0000000000000000 xrw
+FLASH            0x0000000008000000 0x0000000000008000 xr
+FLASHB1          0x0000000000000000 0x0000000000000000 xr
+EXTMEMB0         0x0000000000000000 0x0000000000000000 xr
+EXTMEMB1         0x0000000000000000 0x0000000000000000 xr
+EXTMEMB2         0x0000000000000000 0x0000000000000000 xr
+EXTMEMB3         0x0000000000000000 0x0000000000000000 xr
+MEMORY_ARRAY     0x0000000000000000 0x0000000000000000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+LOAD ./stm32dev/src/stm32f0/stm32dev_gpio_f0.o
+LOAD ./stm32dev/src/stm32f0/stm32dev_rcc_f0.o
+LOAD ./stm32dev/src/stm32f0/stm32dev_spi_f0.o
+LOAD ./stm32dev/src/general/stm32dev_dds_AD9833.o
+LOAD ./stm32dev/src/general/stm32dev_dds_AD9834.o
+LOAD ./stm32dev/src/general/stm32dev_dds_AD9850.o
+LOAD ./stm32dev/src/general/stm32dev_dds_AD9851.o
+LOAD ./stm32dev/src/general/stm32dev_general.o
+LOAD ./stm32dev/src/general/stm32dev_screen_ssd1306.o
+LOAD /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libstdc++_nano.a
+LOAD /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a
+START GROUP
+LOAD /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a
+LOAD /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libg_nano.a
+LOAD /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a
+LOAD /Developer/Eclipse/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+                0x0000000020002000                __stack = (ORIGIN (RAM) + 0x2000)
+                0x0000000020002000                _estack = __stack
+                0x0000000000000400                __Main_Stack_Size = 0x400
+                0x0000000000000400                PROVIDE (_Main_Stack_Size, __Main_Stack_Size)
+                0x0000000020001c00                __Main_Stack_Limit = (__stack - __Main_Stack_Size)
+                0x0000000020001c00                PROVIDE (_Main_Stack_Limit, __Main_Stack_Limit)
+                0x0000000000000100                _Minimum_Stack_Size = 0x100
+                0x0000000020000000                PROVIDE (_Heap_Begin, _end_noinit)
+                0x0000000020001c00                PROVIDE (_Heap_Limit, (__stack - __Main_Stack_Size))
+
+.isr_vector     0x0000000008000000        0x0
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ *(.cfmconfig)
+ *(.after_vectors .after_vectors.*)
+                0x0000000008000000                . = ALIGN (0x4)
+
+.inits          0x0000000008000000        0x0
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.init)
+ *(.fini)
+                0x0000000008000000                . = ALIGN (0x4)
+                0x0000000008000000                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array_sysinit .preinit_array_sysinit.*)
+ *(.preinit_array_platform .preinit_array_platform.*)
+ *(.preinit_array .preinit_array.*)
+                0x0000000008000000                PROVIDE (__preinit_array_end, .)
+                0x0000000008000000                . = ALIGN (0x4)
+                0x0000000008000000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x0000000008000000                PROVIDE (__init_array_end, .)
+                0x0000000008000000                . = ALIGN (0x4)
+                0x0000000008000000                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x0000000008000000                PROVIDE (__fini_array_end, .)
+                0x0000000008000000                . = ALIGN (0x4)
+
+.flashtext      0x0000000008000000        0x0
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.flashtext .flashtext.*)
+                0x0000000008000000                . = ALIGN (0x4)
+
+.text           0x0000000008000000        0x0
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.text .text.*)
+ *(.rodata .rodata.*)
+ *(vtable)
+ *(.eh_frame*)
+ *(.glue_7)
+ .glue_7        0x0000000000000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008000000        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000008000000        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000008000000        0x0
+ .iplt          0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+
+.rel.dyn        0x0000000008000000        0x0
+ .rel.iplt      0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008000000                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000008000000                __exidx_end = .
+                0x0000000008000000                . = ALIGN (0x4)
+                0x0000000008000000                _etext = .
+                0x0000000008000000                __etext = .
+                0x0000000008000000                _sidata = _etext
+
+.data           0x0000000020000000        0x0 load address 0x0000000008000000
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+                0x0000000020000000                __data_start__ = .
+ *(.data_begin .data_begin.*)
+ *(.data .data.*)
+ *(.data_end .data_end.*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+                0x0000000020000000                __data_end__ = .
+
+.igot.plt       0x0000000020000000        0x0
+ .igot.plt      0x0000000000000000        0x0 ./stm32dev/src/stm32f0/stm32dev_dma_f0.o
+
+.bss            0x0000000020000000        0x0
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __bss_start__ = .
+                0x0000000020000000                _sbss = .
+ *(.bss_begin .bss_begin.*)
+ *(.bss .bss.*)
+ *(COMMON)
+ *(.bss_end .bss_end.*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __bss_end__ = .
+                0x0000000020000000                _ebss = .
+
+.noinit         0x0000000020000000        0x0
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _noinit = .
+ *(.noinit .noinit.*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _end_noinit = .
+                0x0000000020000000                PROVIDE (end, _end_noinit)
+                0x0000000020000000                PROVIDE (_end, _end_noinit)
+                0x0000000020000000                PROVIDE (__end, _end_noinit)
+                0x0000000020000000                PROVIDE (__end__, _end_noinit)
+
+._check_stack   0x0000000020000000      0x100
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000100                . = (. + _Minimum_Stack_Size)
+ *fill*         0x0000000020000000      0x100 
+                0x0000000020000100                . = ALIGN (0x4)
+
+.bss_CCMRAM
+ *(.bss.CCMRAM .bss.CCMRAM.*)
+
+.b1text
+ *(.b1text)
+ *(.b1rodata)
+ *(.b1rodata.*)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0rodata)
+ *(.eb0rodata.*)
+
+.eb1text
+ *(.eb1text)
+ *(.eb1rodata)
+ *(.eb1rodata.*)
+
+.eb2text
+ *(.eb2text)
+ *(.eb2rodata)
+ *(.eb2rodata.*)
+
+.eb3text
+ *(.eb3text)
+ *(.eb3rodata)
+ *(.eb3rodata.*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(ESHXX000-stm32haldev.elf elf32-littlearm)
